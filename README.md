@@ -1,6 +1,4 @@
-[![Github](https://raw.githubusercontent.com/LukeyWookey/Icons/refs/heads/main/img/GitHub%20MC%20Button.png)](https://github.com/LukeyWookey/Tumblestone-Highlighter)
-
-[![Modrinth](https://raw.githubusercontent.com/LukeyWookey/Icons/refs/heads/main/img/Modrinth%20MC%20Button.png)](https://modrinth.com/resourcepack/tumblestone-highlight)
+[![Github](https://raw.githubusercontent.com/LukeyWookey/Icons/refs/heads/main/img/GitHub%20MC%20Button.png)](https://github.com/LukeyWookey/Tumblestone-Highlighter) [![Modrinth](https://raw.githubusercontent.com/LukeyWookey/Icons/refs/heads/main/img/Modrinth%20MC%20Button.png)](https://modrinth.com/resourcepack/tumblestone-highlight)
 
 # LW-Tumblestone-Highlighter
 
